@@ -1,4 +1,4 @@
-package leetcode.editor.cn;
+package BinarySearch;
 
 //Given an array of integers nums sorted in non-decreasing order, find the 
 //starting and ending position of a given target value. 
@@ -28,8 +28,6 @@ package leetcode.editor.cn;
 // -10⁹ <= target <= 10⁹ 
 // 
 // Related Topics 数组 二分查找 👍 1606 👎 0
-
-import java.util.Arrays;
 
 public class FindFirstAndLastPositionOfElementInSortedArray{
     public static void main(String[] args) {
