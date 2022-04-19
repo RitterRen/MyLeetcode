@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CloneGraph.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CloneGraph.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com133" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CloneGraph.java" />
+              <option name="titleSlug" value="clone-graph" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.java">
           <value>
             <LeetcodeEditor>
@@ -47,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FlipStringToMonotoneIncreasing.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FlipStringToMonotoneIncreasing.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com926" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FlipStringToMonotoneIncreasing.java" />
+              <option name="titleSlug" value="flip-string-to-monotone-increasing" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerToRoman.java">
           <value>
             <LeetcodeEditor>
@@ -77,6 +99,39 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestIncreasingSubsequence.java" />
               <option name="titleSlug" value="longest-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumPathQualityOfAGraph.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumPathQualityOfAGraph.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2065" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumPathQualityOfAGraph.java" />
+              <option name="titleSlug" value="maximum-path-quality-of-a-graph" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MedianOfTwoSortedArrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com4" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MedianOfTwoSortedArrays.java" />
+              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestPathVisitingAllNodes.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ShortestPathVisitingAllNodes.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com847" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestPathVisitingAllNodes.java" />
+              <option name="titleSlug" value="shortest-path-visiting-all-nodes" />
             </LeetcodeEditor>
           </value>
         </entry>
