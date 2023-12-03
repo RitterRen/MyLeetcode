@@ -21,7 +21,6 @@ release.properties
 
 # Gradle specific files
 .gradle/
-build/
 
 # Package files
 *.jar
